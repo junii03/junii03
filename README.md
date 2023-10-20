@@ -7,7 +7,7 @@ Skills: C++
 - 🌱 I’m currently learning Programming Fundamentals 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junii03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-junaid-afzal2003/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>] [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/?view=cm&fs=1&to=junaidafzal2013@gmail.com&su=SUBJECT&body=BODY)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junii03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-junaid-afzal2003/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/?view=cm&fs=1&to=junaidafzal2013@gmail.com&su=SUBJECT&body=BODY)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junii03)](https://github.com/anuraghazra/github-readme-stats)
 
