@@ -13,3 +13,5 @@ Skills: C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junii03&show_icons=true)  
 
+https://www.codewars.com/users/JunaidAfzal/badges/large
+
