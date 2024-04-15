@@ -4,7 +4,7 @@ I make projects just for fun; it allows me to learn something new every day.
 
 Skills: C++
 
-- 🌱 I’m currently learning Programming Fundamentals 
+- 🌱 I’m currently learning Object Oriented Programming
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/junii03)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-junaid-afzal2003/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](https://mail.google.com/mail/?view=cm&fs=1&to=junaidafzal2013@gmail.com&su=SUBJECT&body=BODY)
@@ -13,5 +13,5 @@ Skills: C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junii03&show_icons=true)  
 
-https://www.codewars.com/users/JunaidAfzal/badges/large
+
 
