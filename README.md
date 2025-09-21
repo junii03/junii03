@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muhammad Junaid Afzal
 ==============================================================================================================================================
 
-Mobile App Developer
+Software Engineer 
 --------------------
 
 Passionate Mobile Application Developer and Software Engineering student with 1+ year of professional experience building high-performance cross-platform apps using Flutter & Dart. Skilled in Firebase integration, RESTful API development, and state management with Riverpod, delivering seamless, scalable, and user-focused applications for Android and iOS.
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [Portfolio](http://junaid.is-a.dev/)
+* 🖥️  See my portfolio at [Portfolio](https://www.junaidafzal.dev/)
 * ✉️  You can contact me at [junaidafzal.dev@gmail.com](mailto:junaidafzal.dev@gmail.com)
 
 <p align="left">
