@@ -64,19 +64,6 @@ Final-year project combining mobile development, backend systems, AI-based crop 
 
 Working on low-latency mobile experiences including real-time audio streaming, translation, Web3 authentication, embedded Solana wallets, and external wallet integrations.
 
----
-
-## `~/github`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=junii03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junii03&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-
-</div>
-
----
 
 ## `~/connect`
 
