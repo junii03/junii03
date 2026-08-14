@@ -1,61 +1,94 @@
-# junii03
+<div align="center">
 
-> Recruiter-friendly proof and contact path.
+# `> Muhammad Junaid Afzal`
 
-**Theme:** GitHub · **Style:** Detailed · **Agent:** Full-Stack Engineer
+### Software Engineer · Mobile & Full-Stack
 
-## Header
-> Editing this section in the inspector.
-Hi, I'm **junii03**. This README is tuned for **get hired** with a GitHub visual system.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=junii03&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=junii03&theme=github-dark" alt="junii03 hero section" />
-  </picture>
-</p>
-## About Me
-Shapes the short profile story and positioning.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=junii03&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=junii03&theme=github-dark" alt="junii03 about section" />
-  </picture>
-</p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=junii03&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=junii03&theme=github-dark" alt="junii03 stack section" />
-  </picture>
-</p>
-## Projects
-Highlights repositories as proof of work.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=junii03&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=junii03&theme=github-dark" alt="junii03 projects section" />
-  </picture>
-</p>
-## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=junii03&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=junii03&theme=github-dark" alt="junii03 stats section" />
-  </picture>
-</p>
-## Streak
-Adds contribution consistency signals.
-## Heatmap
-Animated year-long contribution calendar.
-## Connect
-Contact and social links will appear here.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=junii03&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=junii03&theme=github-dark" alt="junii03 social section" />
-  </picture>
-</p>
+`React Native` · `Flutter` · `TypeScript` · `NestJS`
 
-<!-- Sections: Header, About Me, Skills, Projects, GitHub Stats, Streak, Heatmap, Connect -->
+Building production mobile products, real-time experiences, and backend-connected systems.
+
+[![GitHub](https://img.shields.io/badge/GitHub-junii03-0D1117?style=flat-square\&logo=github\&logoColor=white)](https://github.com/junii03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-junaiddev-0D1117?style=flat-square\&logo=linkedin\&logoColor=58A6FF)](https://linkedin.com/in/junaiddev/)
+
+</div>
+
+---
+
+## `~/about`
+
+```ts
+const junaid = {
+  role: "Software Engineer",
+  building: ["Mobile Apps", "Backend Systems", "Real-time Products"],
+  workingWith: ["React Native", "Flutter", "TypeScript", "NestJS"],
+  learning: ["System Design", "Architecture", "DevOps"],
+};
+```
+
+Software Engineering student at **University of Central Punjab** with professional experience building and maintaining production mobile applications.
+
+I currently work primarily with **React Native**, while also having strong experience with **Flutter** and backend development using **NestJS**.
+
+---
+
+## `~/stack`
+
+```text
+Mobile      React Native · Flutter
+Frontend    TypeScript · React · Next.js
+Backend     NestJS · Node.js · MongoDB · Firebase
+Systems     REST · WebSockets · Real-time APIs
+Tooling     Git · GitHub Actions · Docker
+```
+
+---
+
+## `~/selected-work`
+
+### ⚽ ScoreHub Sports
+
+`React Native · TypeScript · Firebase`
+
+Production sports application for iOS and Android with live scores, predictions, groups, rewards, analytics, monetization, deep linking, and App Store / Play Store delivery.
+
+### 🌾 Farm2Fork
+
+`Flutter · NestJS · FastAPI · AI`
+
+Final-year project combining mobile development, backend systems, AI-based crop quality grading, price prediction, and blockchain-backed supply-chain traceability.
+
+### 🎙️ Real-Time Systems
+
+`React Native · LiveKit · WebSockets`
+
+Working on low-latency mobile experiences including real-time audio streaming, translation, Web3 authentication, embedded Solana wallets, and external wallet integrations.
+
+---
+
+## `~/github`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=junii03&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junii03&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
+
+</div>
+
+---
+
+## `~/connect`
+
+```text
+GitHub    github.com/junii03
+LinkedIn  linkedin.com/in/junaiddev/
+```
+
+> Currently focused on becoming stronger at the layer between **product engineering, architecture, and systems**.
+
+<div align="center">
+
+`build → measure → improve → repeat`
+
+</div>
