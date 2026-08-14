@@ -46,11 +46,6 @@ Tooling     Git · GitHub Actions · Docker
 
 ## `~/selected-work`
 
-### ⚽ ScoreHub Sports
-
-`React Native · TypeScript · Firebase`
-
-Production sports application for iOS and Android with live scores, predictions, groups, rewards, analytics, monetization, deep linking, and App Store / Play Store delivery.
 
 ### 🌾 Farm2Fork
 
